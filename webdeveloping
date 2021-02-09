@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> hi </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+
+    </head>
+
+    <body style="background-color: dimgray;">
+        <h1>This is a heading</h1>
+        <h3>smaller heading</h3>
+        <p>Writing paragraph</p>
+       
+        <button>click this</button>
+
+        <a href="https://www.google.co.nz/?gfe_rd=cr&ei=pkqzWNCeDcTr8Af6waeQBQ">this is a random link</a>
+        <style>
+            p { color: brown; 
+ 
+
+    </body>
+
+</html>
